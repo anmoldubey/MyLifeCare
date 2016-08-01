@@ -26,6 +26,7 @@
 
 -(void)viewDidAppear:(BOOL)animated
 {
+    /*
     UIAlertController *alertController = [UIAlertController
                                           alertControllerWithTitle:@"Message"
                                           message:@"Alert view for Jenkins"
@@ -50,6 +51,10 @@
     [alertController addAction:okAction];
     
     [self presentViewController:alertController animated:YES completion:nil];
+     */
+    
+    UIAlertView *av = [[UIAlertView alloc] initWithTitle:@"Hello" message:@"Jenkins build" delegate:nil cancelButtonTitle:@"Ok" otherButtonTitles:nil, nil];
+    [av show];
 
 }
 - (void)didReceiveMemoryWarning {
