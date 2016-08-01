@@ -416,7 +416,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer: Tasneem Bunglowala (E6QRPZQ7X2)";
 				CODE_SIGN_RESOURCE_RULES_PATH = "$(SDKROOT)/ResourceRules.plist";
 				INFOPLIST_FILE = test/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.yespay.EasyVMobile;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -431,7 +431,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer: Tasneem Bunglowala (E6QRPZQ7X2)";
 				CODE_SIGN_RESOURCE_RULES_PATH = "$(SDKROOT)/ResourceRules.plist";
 				INFOPLIST_FILE = test/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.yespay.EasyVMobile;
 				PRODUCT_NAME = "$(TARGET_NAME)";
