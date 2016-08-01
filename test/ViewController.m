@@ -17,7 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"View Controller ViewDidLoad Called 01");
-    //set provisioning profile IPhone Developer
+    //set provisioning profile = Automatic
     //solve issue regarding resource file
     // Do any additional setup after loading the view, typically from a nib.
 }
