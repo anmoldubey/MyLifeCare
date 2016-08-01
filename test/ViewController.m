@@ -27,8 +27,8 @@
 -(void)viewDidAppear:(BOOL)animated
 {
     UIAlertController *alertController = [UIAlertController
-                                          alertControllerWithTitle:@"Alert"
-                                          message:@"This is a test app"
+                                          alertControllerWithTitle:@"Message"
+                                          message:@"Alert view for Jenkins"
                                           preferredStyle:UIAlertControllerStyleAlert];
     UIAlertAction *cancelAction = [UIAlertAction
                                    actionWithTitle:NSLocalizedString(@"Cancel", @"Cancel action")
