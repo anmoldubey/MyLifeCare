@@ -16,7 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    NSLog(@"View Controller ViewDidLoad Called");
+    NSLog(@"View Controller ViewDidLoad Called 01");
     //set provisioning profile IPhone Developer
     // Do any additional setup after loading the view, typically from a nib.
 }
